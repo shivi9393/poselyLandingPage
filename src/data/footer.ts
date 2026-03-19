@@ -7,7 +7,7 @@ export const footerDetails: {
     telephone: string;
     socials: ISocials;
 } = {
-    subheading: "footer1 [subheading text]",
+    subheading: "Discover poses, master setups, and elevate your photography with Posely.",
     quickLinks: [
         {
             text: "Features",

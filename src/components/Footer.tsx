@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
                             alt="Posely Logo"
                             width={110}
                             height={36}
-                            className="h-9 w-auto object-contain"
+                            className="h-9 w-auto object-contain drop-shadow-sm"
                         />
                     </Link>
                     <p className="mt-3.5 text-foreground-accent">

@@ -23,7 +23,7 @@ export const benefits: IBenefit[] = [
                 icon: <FiClock size={26} />
             }
         ],
-        imageSrc: "/images/mockup-1.webp"
+        imageSrc: "/images/screenshot-poses.png"
     },
     {
         title: "Master the Perfect Setup",
@@ -45,7 +45,7 @@ export const benefits: IBenefit[] = [
                 icon: <FiAperture size={26} />
             }
         ],
-        imageSrc: "/images/mockup-2.webp"
+        imageSrc: "/images/screenshot-ar.png"
     },
     {
         title: "Track Your Photography Journey",
@@ -67,6 +67,6 @@ export const benefits: IBenefit[] = [
                 icon: <FiStar size={26} />
             }
         ],
-        imageSrc: "/images/mockup-1.webp"
+        imageSrc: "/images/screenshot-recents.png"
     },
 ]
