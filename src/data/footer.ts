@@ -26,8 +26,8 @@ export const footerDetails: {
             url: "/terms"
         }
     ],
-    email: 'placeholder@email.com',
-    telephone: '+1 (123) 456-7890',
+    email: 'posely.circle@gmail.com',
+    telephone: '',
     socials: {
         github: 'https://github.com/proSamik/lighteweight-starter-kit-ios-app',
         x: 'https://x.com/',

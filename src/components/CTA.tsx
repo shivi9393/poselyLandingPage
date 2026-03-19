@@ -4,7 +4,6 @@ import { FaGithub } from 'react-icons/fa';
 import { ctaDetails } from "@/data/cta"
 
 import AppStoreButton from "./AppStoreButton"
-import PlayStoreButton from "./PlayStoreButton"
 
 const CTA: React.FC = () => {
     return (
@@ -22,7 +21,6 @@ const CTA: React.FC = () => {
 
                         <div className="mt-4 flex flex-col sm:flex-row items-center sm:gap-4">
                         <AppStoreButton />
-                        <PlayStoreButton />
                         </div>
                         <div className="mt-3">
                             <Link

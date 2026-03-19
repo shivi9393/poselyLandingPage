@@ -1,11 +1,11 @@
-const siteUrl = 'https://your-app.vercel.app/';
+const siteUrl = 'https://posely-app.vercel.app/';
 
 export const siteDetails = {
-    siteName: '[App Name]',
+    siteName: 'Posely',
     siteUrl: siteUrl,
     metadata: {
-        title: '[App Name] - Next.js and Tailwind CSS Landing Page Template',
-        description: '[App Name] empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'Posely - Your Ultimate Pose Guide and Camera Setup Companion',
+        description: 'Posely helps you discover new poses, save your ideal camera setups, and track your photo sessions to elevate your photography game.',
     },
     language: 'en-us',
     locale: 'en-US',

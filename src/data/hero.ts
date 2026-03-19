@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'hero1 [heading text]',
-    subheading: 'hero2 [subheading text]',
+    heading: 'Elevate Your Photography with Perfect Poses',
+    subheading: 'Discover diverse poses, master your lighting and camera setup, and organize your photo sessions with Posely.',
     centerImageSrc: '/images/hero-mockup.webp',
 }

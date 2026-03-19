@@ -1,22 +1,22 @@
-import { BsBarChartFill, BsFillStarFill } from "react-icons/bs";
-import { PiGlobeFill } from "react-icons/pi";
+import { BsCameraFill, BsFillStarFill } from "react-icons/bs";
+import { PiImageFill } from "react-icons/pi";
 
 import { IStats } from "@/types";
 
 export const stats: IStats[] = [
     {
-        title: "20M+",
-        icon: <BsBarChartFill size={34} className="text-blue-500" />,
-        description: "Transactions processed securely every day, providing real-time insights."
+        title: "1,000+",
+        icon: <PiImageFill size={34} className="text-blue-500" />,
+        description: "Curated poses across various categories and difficulty levels."
     },
     {
-        title: "5.0",
+        title: "4.9",
         icon: <BsFillStarFill size={34} className="text-yellow-500" />,
-        description: "Star rating, consistently maintained across app stores."
+        description: "Star rating from photographers and models worldwide."
     },
     {
-        title: "200+ ",
-        icon: <PiGlobeFill size={34} className="text-green-600" />,
-        description: "Financial Institutions, seamlessly integrated, so you can manage all accounts."
+        title: "50,000+ ",
+        icon: <BsCameraFill size={34} className="text-green-600" />,
+        description: "Photo setups and lighting configurations saved by our users."
     }
 ];

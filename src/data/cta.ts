@@ -1,6 +1,6 @@
 export const ctaDetails = {
-    heading: 'cta1 [heading text]',
-    subheading: 'cta2 [subheading text]',
+    heading: 'Ready to Perfect Your Poses?',
+    subheading: 'Download Posely today and start capturing stunning photos with the perfect setups.',
     appStoreUrl: '#',
     googlePlayUrl: '#'
 }
