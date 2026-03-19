@@ -24,11 +24,11 @@ const Header: React.FC = () => {
                     {/* Logo */}
                     <Link href="/" className="flex items-center gap-2">
                         <Image
-                            src="/images/posely-logo-dark.png"
+                            src="/images/posely-logo.png"
                             alt="Posely Logo"
-                            width={120}
-                            height={40}
-                            className="h-10 w-auto object-contain drop-shadow-sm"
+                            width={160}
+                            height={160}
+                            className="h-16 w-auto object-contain drop-shadow-sm"
                         />
                     </Link>
 

@@ -13,11 +13,11 @@ const Footer: React.FC = () => {
                 <div>
                     <Link href="/" className="flex items-center gap-2">
                         <Image
-                            src="/images/posely-logo-dark.png"
+                            src="/images/posely-logo.png"
                             alt="Posely Logo"
-                            width={110}
-                            height={36}
-                            className="h-9 w-auto object-contain drop-shadow-sm"
+                            width={160}
+                            height={160}
+                            className="h-16 w-auto object-contain drop-shadow-sm"
                         />
                     </Link>
                     <p className="mt-3.5 text-foreground-accent">
